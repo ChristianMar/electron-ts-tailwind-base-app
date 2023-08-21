@@ -1,0 +1,1 @@
+# electron-ts-tailwind-base-app
